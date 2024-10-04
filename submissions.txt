@@ -1,3 +1,8 @@
 student, assignment, submission status
 here, Shell Navigation, submitted
 Noel, Shell Navigation, not submitted
+Jean, shell navigation, submitted
+Teta, Redirection I/O, not submitted
+Hirwa, Redirection I/O, not submitted
+Keza, Redirection I/O, submitted
+Joshua, shell permissions, submitted
